@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc92022f3623374695a133063fe011e, type: 3}
+  m_Name: Stage_2-1
+  m_EditorClassIdentifier: 
+  displayName: Stage 2-1
+  description: 
+  targetScore: 300
+  stageDurationSeconds: 65
+  spawnInterval: 0.9
+  baseGravityScale: 0.85
+  maxConcurrentShapes: 26
+  rainbowColorsToUse: 5
+  allowSquare: 1
+  allowTriangle: 1
+  allowCircle: 1
+  stageMusic: {fileID: 8300000, guid: 9a710cd7f0701b846858ea4644e72702, type: 3}
